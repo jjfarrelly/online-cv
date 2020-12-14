@@ -35,16 +35,16 @@ experiences:
       time: 2019 - Present
       company: Cloud Infrastructure Services, Capgemini
       details: |
-         Worked to deliver Cloud security controls and guardrails automation at one of the UK's biggest banks, Leveraging the power of AWS Config.
+         Worked to deliver Cloud security controls and guardrails automation at one of the UK's biggest banks, leveraging the power of AWS Config.
           - Developed 30+ custom rules with Python, AWS Lambda, CloudFormation, Config, SAM and CloudWatch.
           - Promoted code reuse and team efficiency by developing a library for common security checks centred around inline policies, S3 and KMS controls. (IP now being used for further projects).
-          - Supported non-native python developers in the team on using the language and understanding the wider overview of Object Orientated Programming (as opposed to Procedural).
+          - Supported non-native python developers in the team on using the language and understanding the wider overview of Object Orientated Programming (as opposed to procedural).
           
     - role: Platform Engineering Training Member
       time: ongoing
       company: Cloud Infrastructure Services, Capgemini
       details: |
-        Member of the first cohort for the Platform Engineering initiative in Cloud Infrastructure Services. Completed the HashiCorp Terraform Associate qualification, along with two 
+        Member of the first cohort for the Platform Engineering initiative in Cloud Infrastructure Services. Completed the HashiCorp Terraform Associate qualification, alongside two 
         RedHat Container Platform accreditations. I now help to facilitate current and future cohorts as a technical mentor as part of our "Train the Trainer" scheme.
           - HashiCorp Certified Terraform Associate
           - RedHat Delivery Specialist Container Platform and applications deployment
@@ -54,8 +54,8 @@ experiences:
       time: ongoing
       company: Cloud Infrastructure Services, Capgemini
       details: |
-          Capgemini Graduate and Apprentice Programme (GAP) ambassador. As part of the early in career community I have committed to developing a the new Platform Engineering apprentice and graduate scheme.
-          This is aimed at getting more young talent into engineering roles at Capgemini and more specifically Cloud Infrastructure Services.
+          Capgemini Graduate and Apprentice Programme (GAP) ambassador. As part of the "early in career" community I have committed to developing the new Platform Engineering apprentice and graduate scheme.
+          This is aimed at increasing the number young talent in engineering roles at Capgemini and more specifically Cloud Infrastructure Services.
           - Developed and hosting the November 2020 apprentice cohort bootcamp for CIS.
           - Currently mentoring colleagues from the wider apprenticeship programme in understanding DevOps and PE within the business.
           - Running code bootcamps for apprentices and graduates who are looking to make a move into an engineering role within PE as well as the wider business.
