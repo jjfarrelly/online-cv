@@ -56,7 +56,7 @@ experiences:
       details: |
           Capgemini Graduate and Apprentice Programme (GAP) ambassador. As part of the "early in career" community I have committed to developing the new Platform Engineering apprentice and graduate scheme.
           This is aimed at increasing the number young talent in engineering roles at Capgemini and more specifically Cloud Infrastructure Services.
-          - Developed and hosting the November 2020 apprentice cohort bootcamp for CIS.
+          - Developed and hosted the November 2020 apprentice cohort bootcamp for CIS.
           - Currently mentoring colleagues from the wider apprenticeship programme in understanding DevOps and PE within the business.
           - Running code bootcamps for apprentices and graduates who are looking to make a move into an engineering role within PE as well as the wider business.
           
@@ -67,7 +67,7 @@ experiences:
         Delivered B2B support contracts for Azure application development as well as supporting AAD identity and access management.
           - Extensive use of OpenID Connect / OAuth and ASP.NET
           - Supported Azure Kubernetes Service.
-          - Attained three Microsoft Technical Associate certifications in Cloud fundamentals, HTML5, and Device mobility and security.
+          - Attained three Microsoft Technical Associate certifications in Cloud fundamentals, HTML5, and Device Mobility and Devices.
           - Completed a level three Infrastructure Technician qualification.
 
 
@@ -87,6 +87,9 @@ skills:
 
       - name: Azure
         level: 85%
+        
+      - name: Git & DevOps
+        level: 90%
 
       - name: Docker & Kubernetes
         level: 80%
