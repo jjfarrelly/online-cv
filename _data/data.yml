@@ -31,108 +31,57 @@ career-profile:
       I am an ethusiastic and engaging engineer with a broad technical knowledge base. I have a deep technical understanding in the software development 
       space with a strong focus on automation and deployment.
 experiences:
-    - role: Cloud DevOps Engineer
+    - role: Cloud Platform Engineer
       time: 2019 - Present
-      company: Cloud Platform Engineering, CIS, Capgemini
+      company: Cloud Infrastructure Services, Capgemini
       details: |
-        Member of cohort one for the new Platform Engineering team in Cloud Infrastructure Services. Completed the Hashicorp - Terraform Associate qualification, along with multiple 
+        Member of the first cohort for the Platform Engineering initiative in Cloud Infrastructure Services. Completed the Hashicorp Terraform Associate qualification, along with two 
         RedHat Container Platform accreditations. I now help to fascilitate current and future cohorts as a technical mentor as part of our "Train the Trainer" scheme.
-        Key take aways:
           - Hashicorp Certified Terraform Associate
           - RedHat Delivery Specialist Container Platform and applications deployment
           - Train the Trainer
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          
+         Worked to deliver Cloud security controls and guardrails automation at one of the UK's biggest banks, Leveraging the power of AWS Config.
+          - Developed 30+ custom rules with Python, AWS Lambda, Cloudformation, Config, SAM and CloudWatch.
+          - Promoted code reuse and team efficiency by developing a library for common security checks centred around inline policies, S3 and KMS controls. (IP now being used for further projects).
+          - Supported non-native python developers in the team on using the language and understanding the wider overview of Object Orientated Programming (as opposed to Procedural).
+          
+          Capgemini Early in Career embassidor. As part of the early in career community I have commited to developing a the new Platform Engineering apprentice and graduate scheme.
+          This is aimed at getting more young talent into engineering roles at Capgemini and more specifically Cloud Infrastructure Services.
+          - Developed and hosting the November 2020 apprentice cohort bootcamp for CIS.
+          - Currently mentoring collegues from the wider apprenticeship programme in understanding DevOps and PE within the business.
+          - Running code bootcamps for apprentices and graduates who are looking to make a move into an engineering role within PE as well as the wider business.
+          
+    - role: Azure Development Support Engineer
+      time: 2017 - 2019
+      company: Premier Support for Developers, Microsoft
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        Delivered B2B support contracts for Azure application development as well as supporting AAD identity and access management.
+          - Extensive use of OpenID Connect / OAuth and ASP.NET
+          - Supported Azure Kubernetes Service.
+          - Attained three Microsoft Technical Associate certifications in Cloud fundamentals, HTML5, and Device mobility and security.
+          - Completed a level three Infrastructure Technician qualification.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Ruby
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Terraform 
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Amazon Web Services
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Azure
+        level: 85%
+
+      - name: Docker & Kubernetes
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
