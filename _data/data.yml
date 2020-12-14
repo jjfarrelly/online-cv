@@ -28,8 +28,8 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I am an enthusiastic and engaging engineer with a broad technical knowledge base. I have a deep technical understanding in the software development 
-      space with a strong focus on automation and deployment.
+      I am an enthusiastic and innovative engineer that employs a cloud native outlook in all aspects of my work. I have a deep technical understanding in the software development 
+      space with a strong focus on cloud automation and deployment.
 experiences:
     - role: Cloud Platform Engineer
       time: 2019 - Present
@@ -79,7 +79,7 @@ skills:
       - name: Python & Ruby
         level: 98%
 
-      - name: Terraform 
+      - name: Terraform & Vault
         level: 90%
 
       - name: Amazon Web Services
@@ -89,5 +89,5 @@ skills:
         level: 85%
 
       - name: Docker & Kubernetes
-        level: 85%
+        level: 80%
 
