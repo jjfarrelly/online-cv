@@ -40,7 +40,7 @@ experiences:
           - Promoted code reuse and team efficiency by developing a library for common security checks centred around inline policies, S3 and KMS controls. (IP now being used for further projects).
           - Supported non-native python developers in the team on using the language and understanding the wider overview of Object Orientated Programming (as opposed to Procedural).
           
-    - role: Platform Engineering Training
+    - role: Platform Engineering Training Member
       time: ongoing
       company: Cloud Infrastructure Services, Capgemini
       details: |
