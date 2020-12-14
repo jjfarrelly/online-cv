@@ -30,7 +30,7 @@ career-profile:
     summary: |
       I am an enthusiastic and innovative engineer that employs a cloud native outlook in all aspects of my work. I have a deep technical understanding in the software development 
       space with a strong focus on cloud automation and deployment.
-experience:
+experiences:
     - role: Cloud Platform Engineer
       time: 2019 - Present
       company: Cloud Infrastructure Services, Capgemini
