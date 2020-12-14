@@ -35,17 +35,16 @@ experiences:
       time: 2019 - Present
       company: Cloud Infrastructure Services, Capgemini
       details: |
-         Worked to deliver Cloud security controls and guardrails automation at one of the UK's biggest banks, leveraging the power of AWS Config.
+         Created cloud security controls and guardrails for one of the UK's biggest banks.
           - Developed 30+ custom rules with Python, AWS Lambda, CloudFormation, Config, SAM and CloudWatch.
           - Promoted code reuse and team efficiency by developing a library for common security checks centred around inline policies, S3 and KMS controls. (IP now being used for further projects).
           - Supported non-native python developers in the team on using the language and understanding the wider overview of Object Orientated Programming (as opposed to procedural).
           
-    - role: Platform Engineering Training Member
+    - role: Platform Engineering Chapter Member
       time: ongoing
       company: Cloud Infrastructure Services, Capgemini
       details: |
-        Member of the first cohort for the Platform Engineering initiative in Cloud Infrastructure Services. Completed the HashiCorp Terraform Associate qualification, alongside two 
-        RedHat Container Platform accreditations. I now help to facilitate current and future cohorts as a technical mentor as part of our "Train the Trainer" scheme.
+        Member of the first cohort of Platform Engineering chapter in CIS. I now help to facilitate current and future cohorts as a technical mentor as part of our "Train the Trainer" scheme.
           - HashiCorp Certified Terraform Associate
           - RedHat Delivery Specialist Container Platform and applications deployment
           - Train the Trainer
