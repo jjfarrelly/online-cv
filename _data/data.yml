@@ -35,18 +35,26 @@ experiences:
       time: 2019 - Present
       company: Cloud Infrastructure Services, Capgemini
       details: |
+         Worked to deliver Cloud security controls and guardrails automation at one of the UK's biggest banks, Leveraging the power of AWS Config.
+          - Developed 30+ custom rules with Python, AWS Lambda, Cloudformation, Config, SAM and CloudWatch.
+          - Promoted code reuse and team efficiency by developing a library for common security checks centred around inline policies, S3 and KMS controls. (IP now being used for further projects).
+          - Supported non-native python developers in the team on using the language and understanding the wider overview of Object Orientated Programming (as opposed to Procedural).
+          
+    - role: Platform Engineering Training
+      time: ongoing
+      company: Cloud Infrastructure Services, Capgemini
+      details: |
         Member of the first cohort for the Platform Engineering initiative in Cloud Infrastructure Services. Completed the Hashicorp Terraform Associate qualification, along with two 
         RedHat Container Platform accreditations. I now help to fascilitate current and future cohorts as a technical mentor as part of our "Train the Trainer" scheme.
           - Hashicorp Certified Terraform Associate
           - RedHat Delivery Specialist Container Platform and applications deployment
           - Train the Trainer
           
-         Worked to deliver Cloud security controls and guardrails automation at one of the UK's biggest banks, Leveraging the power of AWS Config.
-          - Developed 30+ custom rules with Python, AWS Lambda, Cloudformation, Config, SAM and CloudWatch.
-          - Promoted code reuse and team efficiency by developing a library for common security checks centred around inline policies, S3 and KMS controls. (IP now being used for further projects).
-          - Supported non-native python developers in the team on using the language and understanding the wider overview of Object Orientated Programming (as opposed to Procedural).
-          
-          Capgemini Early in Career embassidor. As part of the early in career community I have commited to developing a the new Platform Engineering apprentice and graduate scheme.
+    - role: GAP Embassidor 
+      time: ongoing
+      company: Cloud Infrastructure Services, Capgemini
+      details: |
+          Capgemini Graduate and Apprentice Programme (GAP) embassidor. As part of the early in career community I have commited to developing a the new Platform Engineering apprentice and graduate scheme.
           This is aimed at getting more young talent into engineering roles at Capgemini and more specifically Cloud Infrastructure Services.
           - Developed and hosting the November 2020 apprentice cohort bootcamp for CIS.
           - Currently mentoring collegues from the wider apprenticeship programme in understanding DevOps and PE within the business.
