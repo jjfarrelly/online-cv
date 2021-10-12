@@ -31,64 +31,30 @@ career-profile:
       I am an ethusiastic and engaging engineer with a broad technical knowledge base. I have a deep technical understanding in the software development 
       space with a strong focus on automation and deployment.
 experiences:
-    - role: Cloud DevOps Engineer
+    - role: Software Engineer
       time: 2019 - Present
-      company: Cloud Platform Engineering, CIS, Capgemini
+      company: Emerging Tech, I&D, Capgemini
       details: |
-        Member of cohort one for the new Platform Engineering team in Cloud Infrastructure Services. Completed the Hashicorp - Terraform Associate qualification, along with multiple 
-        RedHat Container Platform accreditations. I now help to fascilitate current and future cohorts as a technical mentor as part of our "Train the Trainer" scheme.
+        Part of the Emerging Tech team in the Insights and Data business unit. Completed the AWS Cloud Practitioner Certification and aim to have AWS Solutions Architect before the end of the year.
+        I have completed a number of AWS pluralsight courses and labs and have delivered presentations on my work with AWS. 
+        I've also been involved in a number of internal AWS initiatives and delivered monthly updates for our business unit regarding this.
         Key take aways:
-          - Hashicorp Certified Terraform Associate
-          - RedHat Delivery Specialist Container Platform and applications deployment
-          - Train the Trainer
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Cloud Practitioner Certification
+          - BPSS and SC clearance
+          - Part of Junior Talent community on the accelerated learning path
+    
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Robotics Process Automation
+        details: Using NICE RPA software to build, monitor and fix solutions which help minimise human interaction across repetitive processes.
+                 Worked in a Dev team before moving across to the Live Service team, responsible for updating and fixing all existing processes.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: DevOps Engineer
+        details: Using AWS to create, modifyfy and destroy migration pipelines with over 7 billion records of data to numerous downstream consumers, with experience using DMS, SNS, Lambda, RDS and S3.
+                 Unable to use the Console to perform operations so managed the environment through IAC with terraform, AWS CLI and Jenkins automation. 
+                 Hosted a Knowledge share to the wider teams around DMS, our pipelines, what we do etc. 
 
 publications:
     title: Publications
