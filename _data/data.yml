@@ -14,7 +14,6 @@ sidebar:
   # Sidebar links
   email: joe.j.farrelly@outlook.com
   phone: 07776 234566
-  website: www.jfarrellyblogs.co.uk/
   linkedin: www.linkedin.com/in/joe-farrelly/
   github: jjfarrelly
   telegram: # add your nickname without '@' sign
@@ -32,8 +31,21 @@ career-profile:
     space with a strong focus on cloud automation and deployment.
 
 experiences:
+  - role: Senior Cloud DevOps Engineer
+    time: 2021 - Present
+    company: Cloud Native Domain, Fujitsu
+    details: |
+      Automation and infra-as-code SME.
+       - Cloud agnostic development.
+       - Split across multiple accounts.
+       - Delivery in both service integration and product development.
+
+      Working with 3rd party Blockchain services to deploy a new cloud landing zone for our product development team.
+       - Using Azure DevOps pipelines to deploy to AWS leveraging multiple Terraform modules.
+       - Configuring EKS (Kubernetes service) for autoscaling across availability zones.
+
   - role: Cloud Platform Engineer
-    time: 2019 - Present
+    time: 2019 - 2021
     company: Cloud Infrastructure Services, Capgemini
     details: |
       Enterprise-scale cloud migration.
