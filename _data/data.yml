@@ -59,7 +59,7 @@ experiences:
        - Supported non-native python developers in the team on using the language and understanding the wider overview of Object Orientated Programming (as opposed to procedural).
 
   - role: Platform Engineering Chapter Member
-    time: ongoing
+    time: 2019 - 2021
     company: Cloud Infrastructure Services, Capgemini
     details: |
       Member of the first cohort of Platform Engineering chapter in CIS. I now help to facilitate current and future cohorts as a technical mentor as part of our "Train the Trainer" scheme.
@@ -106,6 +106,16 @@ skills:
 
     - name: Docker & Kubernetes
       level: 70%
+      
+    title: Qualifications
+    
+    toolset:
+      - name: Distinction - Level 3 Infrastructure Technician, The Chartered Institute for IT
+      - name: Terraform Associate, HashiCorp
+      - name: Red Hat Delivery Specialist - Container Platform Deployment
+      - name: Red Hat Delivery Specialist - Container Platform Application Deployment
+      - name: MTA Cloud Fundamentals - Microsoft
+      - name: MTA Mobility and Device Fundamentals - Microsoft
 
 
      
