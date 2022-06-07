@@ -109,13 +109,15 @@ skills:
       
     title: Qualifications
     
-   toolset:
-     - name: Distinction - Level 3 Infrastructure Technician, The Chartered Institute for IT
-     - name: Terraform Associate, HashiCorp
-     - name: Red Hat Delivery Specialist - Container Platform Deployment
-     - name: Red Hat Delivery Specialist - Container Platform Application Deployment
-     - name: MTA Cloud Fundamentals - Microsoft
-     - name: MTA Mobility and Device Fundamentals - Microsoft
+skills:
+  title: Certifications
+  toolset:
+    - name: Distinction - Level 3 Infrastructure Technician, The Chartered Institute for IT
+    - name: Terraform Associate, HashiCorp
+    - name: Red Hat Delivery Specialist - Container Platform Deployment
+    - name: Red Hat Delivery Specialist - Container Platform Application Deployment
+    - name: MTA Cloud Fundamentals - Microsoft
+    - name: MTA Mobility and Device Fundamentals - Microsoft
 
 
      
