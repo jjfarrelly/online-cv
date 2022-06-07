@@ -86,12 +86,13 @@ experiences:
         - Completed a level three Infrastructure Technician qualification.
         
   - role: Certifications
-    company: Distinction - Level 3 Infrastructure Technician, The Chartered Institute for IT
-    company: Terraform Associate - HashiCorp
-    company: Red Hat Delivery Specialist - Container Platform Deployment
-    company: Red Hat Delivery Specialist - Container Platform Application Deployment
-    company: MTA Cloud Fundamentals - Microsoft
-    company: MTA Mobility and Device Fundamentals - Microsoft
+    details: |
+      - Distinction - Level 3 Infrastructure Technician, The Chartered Institute for IT
+      - Terraform Associate - HashiCorp
+      - Red Hat Delivery Specialist - Container Platform Deployment
+      - Red Hat Delivery Specialist - Container Platform Application Deployment
+      - MTA Cloud Fundamentals - Microsoft
+      - MTA Mobility and Device Fundamentals - Microsoft
 
 
 skills:
@@ -114,7 +115,7 @@ skills:
       level: 90%
 
     - name: Docker & Kubernetes
-      level: 100%
+      level: 70%
       
 
      
