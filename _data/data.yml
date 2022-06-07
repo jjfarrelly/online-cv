@@ -68,14 +68,12 @@ experiences:
         - Train the Trainer
 
   - role: GAP Ambassador
-    time: ongoing
     company: Cloud Infrastructure Services, Capgemini
     details: |
-      Capgemini Graduate and Apprentice Programme (GAP) ambassador. As part of the "early in career" community I have committed to developing the new Platform Engineering apprentice and graduate scheme.
-      This is aimed at increasing the number young talent in engineering roles at Capgemini and more specifically Cloud Infrastructure Services.
+      Capgemini Graduate and Apprentice Programme (GAP) ambassador.
       - Developed and hosted the November 2020 apprentice cohort bootcamp for CIS.
-      - Currently mentoring colleagues from the wider apprenticeship programme in understanding DevOps and PE within the business.
-      - Running code bootcamps for apprentices and graduates who are looking to make a move into an engineering role within PE as well as the wider business.
+      - Mentored colleagues from the wider apprenticeship programme in understanding DevOps and PE within the business.
+      - Ran code bootcamps for apprentices and graduates who were looking to make a move into an engineering role within PE as well as the wider business.
 
   - role: Azure Development Support Engineer
     time: 2017 - 2019
@@ -107,4 +105,6 @@ skills:
       level: 90%
 
     - name: Docker & Kubernetes
-      level: 80%
+      level: 70%
+      
+     
