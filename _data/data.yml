@@ -84,6 +84,16 @@ experiences:
         - Supported Azure Kubernetes Service.
         - Attained three Microsoft Technical Associate certifications in Cloud fundamentals, HTML5, and Device Mobility and Devices.
         - Completed a level three Infrastructure Technician qualification.
+        
+   - role: Certifications
+   details: |
+    Distinction - Level 3 Infrastructure Technician, The Chartered Institute for IT
+    Terraform Associate - HashiCorp
+    Red Hat Delivery Specialist - Container Platform Deployment
+    Red Hat Delivery Specialist - Container Platform Application Deployment
+    MTA Cloud Fundamentals - Microsoft
+    MTA Mobility and Device Fundamentals - Microsoft
+
 
 skills:
   title: Skills &amp; Proficiency
@@ -107,15 +117,5 @@ skills:
     - name: Docker & Kubernetes
       level: 100%
       
-skills:
-  title: Certifications
-  toolset:
-    - name: Distinction - Level 3 Infrastructure Technician, The Chartered Institute for IT
-    - name: Terraform Associate - HashiCorp
-    - name: Red Hat Delivery Specialist - Container Platform Deployment
-    - name: Red Hat Delivery Specialist - Container Platform Application Deployment
-    - name: MTA Cloud Fundamentals - Microsoft
-    - name: MTA Mobility and Device Fundamentals - Microsoft
-
 
      
