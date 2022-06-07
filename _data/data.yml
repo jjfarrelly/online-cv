@@ -85,14 +85,14 @@ experiences:
         - Attained three Microsoft Technical Associate certifications in Cloud fundamentals, HTML5, and Device Mobility and Devices.
         - Completed a level three Infrastructure Technician qualification.
         
-   - role: Certifications
-   details: |
-    Distinction - Level 3 Infrastructure Technician, The Chartered Institute for IT
-    Terraform Associate - HashiCorp
-    Red Hat Delivery Specialist - Container Platform Deployment
-    Red Hat Delivery Specialist - Container Platform Application Deployment
-    MTA Cloud Fundamentals - Microsoft
-    MTA Mobility and Device Fundamentals - Microsoft
+  - role: Certifications
+    details: |
+      Distinction - Level 3 Infrastructure Technician, The Chartered Institute for IT
+      Terraform Associate - HashiCorp
+      Red Hat Delivery Specialist - Container Platform Deployment
+      Red Hat Delivery Specialist - Container Platform Application Deployment
+      MTA Cloud Fundamentals - Microsoft
+      MTA Mobility and Device Fundamentals - Microsoft
 
 
 skills:
