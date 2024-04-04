@@ -33,16 +33,16 @@ career-profile:
 experiences:
   - role: Senior Platform Engineer
     time: 2022 - Present
-    company: Common Platform Streaming, ITV
+    company: Streaming, ITV
     details: |
       ITVX Backend Infrastructure Lead.
-       - Infrastructure deployment and Support for 100+ ITVX developers looking after Distribution and content discovery running in EKS.
+       - Infrastructure deployment and Support for 100+ ITVX developers looking after distribution and content discovery running in EKS.
        - Automation of "Self Service Infrastructure" through reusable terraform component modules.
        - CI/CD automation through Github actions and Jenkins deployment pipelines.
 
       Working with ITV's streaming division to build, maintain and automate AWS infrastructure and Kubernetes-managed services.
        - Development of Common Platform version 3 has helped speed up developers’ CI/CD pipelines and infrastructural deployments.
-       - Looking after service reliability of 70+ services running in EKS by leveraging default alerting and autoscaling technologies such as KEDA and KARPENTER.
+       - Looking after service reliability of 70+ services running in EKS by leveraging default alerting and autoscaling technologies such as Keda, Karpenter, Alert Manager, Prometheus, Loki.
 
   - role: Senior Cloud DevOps Engineer
     time: 2021 - 2022
