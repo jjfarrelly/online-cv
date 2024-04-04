@@ -27,8 +27,7 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    I am an enthusiastic, innovative and passionate authomation SME that employs a cloud native outlook in all aspects of my work. I have deep technical understanding and experience in the platform engineering and DevOps
-    space.
+    I'm an automation specialist with a cloud-native approach, blending innovation with practicality. With extensive experience in platform engineering and DevOps, I thrive on streamlining processes and fostering efficiency. Let's work together to drive impactful solutions and make technology work smarter, not harder.
 
 experiences:
   - role: Senior Platform Engineer
@@ -36,13 +35,12 @@ experiences:
     company: Streaming, ITV
     details: |
       ITVX Backend Infrastructure Lead.
-       - Infrastructure deployment and Support for 100+ ITVX developers looking after distribution and content discovery running in EKS.
-       - Automation of "Self Service Infrastructure" through reusable terraform component modules.
-       - CI/CD automation through Github actions and Jenkins deployment pipelines.
+       - Spearheading infrastructure deployment and support for over 100 ITVX developers, overseeing distribution and content discovery running in EKS.
+       - I drive automation initiatives, particularly in implementing "Self Service Infrastructure" through reusable Terraform component modules.
 
-      Working with ITV's streaming division to build, maintain and automate AWS infrastructure and Kubernetes-managed services.
-       - Development of Common Platform version 3 has helped speed up developers’ CI/CD pipelines and infrastructural deployments.
-       - Looking after service reliability of 70+ services running in EKS by leveraging default alerting and autoscaling technologies such as Keda, Karpenter, Alert Manager, Prometheus, Loki.
+      Collaborating closely with ITV's streaming division, I am instrumental in building, maintaining, and automating AWS infrastructure and Kubernetes-managed services.
+       - My efforts in developing Common Platform version 3 have significantly accelerated developers’ CI/CD pipelines and infrastructural deployments.
+       - I ensure the service reliability of 70+ services running in EKS by leveraging default alerting and autoscaling technologies such as Keda, Karpenter, Alert Manager, Prometheus, and Loki.
 
   - role: Senior Cloud DevOps Engineer
     time: 2021 - 2022
