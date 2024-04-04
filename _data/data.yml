@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Joe Farrelly
-  tagline: Cloud DevOps Engineer
+  tagline: Senior Platform Engineer
   avatar: joe_profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -27,12 +27,25 @@ sidebar:
 career-profile:
   title: About me
   summary: |
-    I am an enthusiastic and innovative engineer that employs a cloud native outlook in all aspects of my work. I have a deep technical understanding in the software development 
-    space with a strong focus on cloud automation and deployment.
+    I am an enthusiastic, innovative and passionate authomation SME that employs a cloud native outlook in all aspects of my work. I have deep technical understanding and experience in the platform engineering and DevOps
+    space.
 
 experiences:
+  - role: Senior Platform Engineer
+    time: 2022 - Present
+    company: Common Platform Streaming, ITV
+    details: |
+      ITVX Backend Infrastructure Lead.
+       - Infrastructure deployment and Support for 100+ ITVX developers looking after Distribution and content discovery running in EKS.
+       - Automation of "Self Service Infrastructure" through reusable terraform component modules.
+       - CI/CD automation through Github actions and Jenkins deployment pipelines.
+
+      Working with ITV's streaming division to build, maintain and automate AWS infrastructure and Kubernetes-managed services.
+       - Development of Common Platform version 3 has helped speed up developers’ CI/CD pipelines and infrastructural deployments.
+       - Looking after service reliability of 70+ services running in EKS by leveraging default alerting and autoscaling technologies such as KEDA and KARPENTER.
+
   - role: Senior Cloud DevOps Engineer
-    time: 2021 - Present
+    time: 2021 - 2022
     company: Cloud Native Domain, Fujitsu
     details: |
       Automation and infra-as-code SME.
@@ -102,20 +115,23 @@ skills:
     - name: Python & Ruby
       level: 98%
 
-    - name: Terraform & Vault
-      level: 90%
+    - name: Terraform
+      level: 100%
 
     - name: Amazon Web Services
-      level: 85%
+      level: 100%
 
     - name: Azure
       level: 85%
 
-    - name: Git & DevOps
-      level: 90%
+    - name: Google Cloud Platform
+      level: 50%
+
+    - name: Operations and Developer Experience
+      level: 95%
 
     - name: Docker & Kubernetes
-      level: 70%
+      level: 80%
       
 
      
