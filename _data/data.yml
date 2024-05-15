@@ -35,9 +35,10 @@ experiences:
     company: Streaming, ITV
     details: |
       ITVX Backend Infrastructure Lead.
-       - Spearheading infrastructure deployment and support for over 100 ITVX developers, overseeing distribution and content discovery running in EKS.
+       - Spearheading infrastructure deployment and support for over 100 ITVX developers, overseeing distribution and content discovery running on K8s in EKS.
        - I drive automation initiatives, particularly in implementing "Self Service Infrastructure" through reusable Terraform component modules.
-       - Techincal leadership and line management for 5 of our "core" level Platform Engineers.
+       - Techincal leadership/mentoring and line management for 5 of our "core" level Platform Engineers.
+       - Extensive experience in Linux and Docker alongside Kubernetes
 
       Collaborating closely with ITV's streaming division, I am instrumental in building, maintaining, and automating AWS infrastructure and Kubernetes-managed services.
        - My efforts in developing Common Platform version 3 have significantly accelerated developers’ CI/CD pipelines and infrastructural deployments.
@@ -49,6 +50,7 @@ experiences:
     details: |
       Automation and infra-as-code SME.
        - Cloud agnostic development.
+       - Technical project leadership.
        - Split across multiple accounts.
        - Delivery in both service integration and product development.
 
@@ -62,12 +64,12 @@ experiences:
     details: |
       Enterprise-scale cloud migration.
        - Leveraged Terraform for enterprise-scale landing zones.
-       - Followed Microsoft's Cloud Adoption Framework for best practice transition to the cloud.
-       - Showcased an automated pipeline deployment using tools such as Azure DevOps with integrated testing and dependency tracking.
+       - Implementing Microsoft's Cloud Adoption Framework for best practice transition to the cloud.
+       - Driving automated pipeline deployments using tools such as Azure DevOps with integrated testing and dependency tracking.
 
       Created cloud security controls and guardrails for one of the UK's biggest banks.
        - Developed 30+ custom rules with Python, AWS Lambda, CloudFormation, Config, SAM, and CloudWatch.
-       - Promoted code reuse and team efficiency by developing a library for common security checks centered around inline policies, S3, and KMS controls. (IP is now being used for further projects).
+       - Promoted code reuse and team efficiency by developing a library for common security checks centred around inline policies, S3, and KMS controls. (IP is now being used for further projects).
        - Supported non-native python developers in the team on using the language and understanding the wider overview of Object Orientated Programming (as opposed to procedural).
 
   - role: Platform Engineering Chapter Member
@@ -112,9 +114,12 @@ skills:
 
   toolset:
     - name: Python & Ruby
-      level: 98%
+      level: 100%
 
     - name: Terraform
+      level: 100%
+
+    - name: CI/CD Orchestration
       level: 100%
 
     - name: Amazon Web Services
@@ -130,7 +135,4 @@ skills:
       level: 95%
 
     - name: Docker & Kubernetes
-      level: 80%
-      
-
-     
+      level: 90%
