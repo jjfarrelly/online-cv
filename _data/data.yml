@@ -37,6 +37,7 @@ experiences:
       ITVX Backend Infrastructure Lead.
        - Spearheading infrastructure deployment and support for over 100 ITVX developers, overseeing distribution and content discovery running in EKS.
        - I drive automation initiatives, particularly in implementing "Self Service Infrastructure" through reusable Terraform component modules.
+       - Techincal leadership and line management for 5 of our "core" level Platform Engineers.
 
       Collaborating closely with ITV's streaming division, I am instrumental in building, maintaining, and automating AWS infrastructure and Kubernetes-managed services.
        - My efforts in developing Common Platform version 3 have significantly accelerated developers’ CI/CD pipelines and infrastructural deployments.
