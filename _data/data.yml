@@ -31,7 +31,7 @@ career-profile:
 
 experiences:
   - role: Senior Platform Engineer
-    time: 2022 - Present
+    time: Aug 2022 - Present
     company: Streaming, ITV
     details: |
       ITVX Backend Infrastructure Lead.
@@ -45,7 +45,7 @@ experiences:
        - I ensure the service reliability of 70+ services running in EKS by leveraging default alerting and autoscaling technologies such as Keda, Karpenter, Alert Manager, Prometheus, and Loki.
 
   - role: Senior Cloud DevOps Engineer
-    time: 2021 - 2022
+    time: Nov 2021 - Aug 2022
     company: Cloud Native Domain, Fujitsu
     details: |
       Automation and infra-as-code SME.
@@ -59,7 +59,7 @@ experiences:
        - Configuring EKS (Kubernetes service) for autoscaling across availability zones.
 
   - role: Cloud Platform Engineer
-    time: 2019 - 2021
+    time: Apr 2021 - Nov 2021
     company: Cloud Infrastructure Services, Capgemini
     details: |
       Enterprise-scale cloud migration.
@@ -73,7 +73,7 @@ experiences:
        - Supported non-native python developers in the team on using the language and understanding the wider overview of Object Orientated Programming (as opposed to procedural).
 
   - role: Platform Engineering Chapter Member
-    time: 2019 - 2021
+    time: Nov 2019 - Apr 2021
     company: Cloud Infrastructure Services, Capgemini
     details: |
       Member of the first cohort of Platform Engineering chapter in CIS. I now help to facilitate current and future cohorts as a technical mentor as part of our "Train the Trainer" scheme.
@@ -90,7 +90,7 @@ experiences:
       - Ran code bootcamps for apprentices and graduates who were looking to make a move into an engineering role within PE as well as the wider business.
 
   - role: Azure Development Support Engineer
-    time: 2017 - 2019
+    time: Sep 2017 -  Nov 2019
     company: Premier Support for Developers, Microsoft
     details: |
       Delivered B2B support contracts for Azure application development as well as supporting AAD identity and access management.
