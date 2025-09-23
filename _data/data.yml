@@ -30,8 +30,23 @@ career-profile:
     I'm an automation specialist with a cloud-native approach, blending innovation with practicality. With extensive experience in platform engineering and DevOps, I thrive on streamlining processes and fostering efficiency. Let's work together to drive impactful solutions and make technology work smarter, not harder.
 
 experiences:
+  - role: Senior Solution Architect
+    time: Sept 2024 - Present
+    company: A-Cloud, Ubertas Consulting | Devoteam
+    details: |
+      	-	Specialising in AI-driven architectures and solutions, while also leading multiple large-scale cloud migration and acceleration programs in the AWS space 
+        - Experienced in designing resilient, scalable, and cost-optimised AWS infrastructure with a focus on security, automation, and disaster recovery.
+        - Strong background in developing reusable Terraform modules to accelerate infrastructure deployment and adoption across teams.
+        - Technical leadership and mentoring of engineers, enabling upskilling in cloud-native best practices and AI integration.
+        - Extensive experience across Linux, Docker, and Kubernetes with a track record of modernising workloads to cloud-native platforms.
+        
+        - Collaborating with clients across industries, I deliver end-to-end AWS solutions that bridge traditional cloud adoption with cutting-edge AI services.
+        - I have driven AI proof-of-concepts and production-ready pipelines using AWS Bedrock, Lambda, and event-driven architectures.
+        - My work on migration acceleration programs has enabled businesses to rapidly modernise their applications, reduce operational overhead, and adopt AI-powered enhancements.
+        - I ensure service resilience and performance by leveraging AWS-native monitoring, autoscaling, and governance frameworks, while aligning delivery to Well-Architected best practices.
+        
   - role: Senior Platform Engineer
-    time: Aug 2022 - Present
+    time: Aug 2022 - Sept 2024
     company: Streaming, ITV
     details: |
       ITVX Backend Infrastructure Lead.
